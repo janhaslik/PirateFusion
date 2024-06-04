@@ -1,0 +1,192 @@
+;Model;Manufacturer;Focus;Length;Beam;Height;Airworthy;Size;Mass;Cargo Capacity;SCM Speed;Afterburner Speed;Min Crew;Max Crew;Price
+0;Auora ES;RSI;Starter / Pathfinder;18.0;8.0;4.0;Yes;Small;25172;0;190;1140;1;1;20
+1;Auora LX;RSI;Pathfinder;18.0;8.0;4.0;Yes;Small;25017;0;190;1200;1;1;35
+2;Aurora MR;RSI;Light Figther;18.0;8.0;4.0;Yes;Small;25017;0;195;1210;1;1;30
+3;Aurora CL;RSI;Light Freight;18.0;8.0;4.0;Yes;Small;25172;6;185;1095;1;1;45
+4;Auora LN;RSI;Light Figther;18.0;8.0;4.0;Yes;Small;25338;0;185;1210;1;1;40
+5;300I;ORIG;Luxurt Touring;27.0;17.0;8.0;Yes;Small;66320;8;204;1190;1;1;60
+6;315P;ORIG;Pathfinder;27.0;17.0;8.0;Yes;Small;69220;12;210;1225;1;1;65
+7;325A;ORIG;Interdiction / Light Fighter;27.0;17.0;8.0;Yes;Small;72500;4;225;1315;1;1;70
+8;350R;ORIG;Racing;27.0;17.0;8.0;Yes;Small;58530;4;258;1345;1;1;125
+9;F7C Hornet;ANVL;Medium Fighter;22.5;21.5;6.5;Yes;Small;73535;2;235;1225;1;1;110
+10;F7C Hornet Wildfire;ANVL;Medium Fighter;22.5;21.5;6.5;Yes;Small;73535;0;185;1224;1;1;0
+11;F7C0S Hornet Ghost;ANVL;Stealth Fighter;22.5;21.5;6.5;Yes;Small;73454;0;235;1225;1;1;125
+12;F7C0R Hornet Tracker;ANVL;Pathfinder;22.5;21.5;6.5;Yes;Small;73497;0;240;1215;1;1;140
+13;F7C0M Super Hornet;ANVL;Medium Fighter;25.5;24.0;6.5;Yes;Small;78466;0;230;1220;1;2;180
+14;F7C0M Super Hornet Heartseeker;ANVL;Medium Fighter;25.5;24.0;6.5;Yes;Small;78466;0;230;1220;1;2;0
+15;Constellation Aquila;RSI;Expedition;61.0;26.0;14.0;Yes;Large;439108;96;190;985;3;4;310
+16;Constellation Andromeda;RSI;Medium Freight / Gun Ship;61.0;26.0;14.0;Yes;Large;419850;96;190;910;3;4;240
+17;Constellation Tauris;RSI;Medium Freight ;61.0;26.0;14.0;Yes;Large;416009;0;0;0;3;4;190
+18;Constellation Phoenix;RSI;Luxurt Touring;61.0;26.0;14.0;Yes;Large;417510;0;0;0;3;4;350
+19;Constellation Phoenix Emerald;RSI;Touring;61.0;26.0;14.0;Yes;Large;417510;0;0;0;3;4;0
+20;Freelancer;MISC;Medium Freight;38.0;23.5;9.5;Yes;Medium;209230;66;205;1005;2;4;110
+21;Freelancer Dur;MISC;Expedition;38.0;23.5;9.5;Yes;Medium;213680;28;0;0;2;4;135
+22;Freelancer Max;MISC;Medium Freight;38.0;36.0;9.5;Yes;Medium;336230;112;0;0;2;4;150
+23;Freelancer MIS;MISC;Gun Ship;38.0;23.5;9.5;Yes;Medium;213680;28;0;0;2;4;175
+24;Cutlass Black;DRAK;Medium Fighter / Medium Freight;29.0;26.5;10.0;Yes;Medium;226700;46;220;115;2;2;100
+25;Cutlass Red;DRAK;Medical;36.0;26.0;14.0;Yes;Medium;226700;12;183;0;2;2;135
+26;Cutlass Blue;DRAK;Medium Fighter / Medium Freight;29.0;26.5;10.0;Yes;Medium;226700;46;220;1115;2;2;175
+27;Cutlass Steel;DRAK;Dropship;36.0;26.5;14.0;Yes;Medium;226700;0;150;0;1;3;235
+28;Avenger Stalker;AEGS;Interdiction;22.5;16.5;5.5;Yes;Small;50040;0;250;1310;1;1;60
+29;Avenger Titan Renegade;AEGS;Light Freight;22.5;16.5;5.5;Yes;Small;50735;8;205;1115;1;1;0
+30;Avenger Warlock;AEGS;Interdiction;22.5;16.5;5.5;Yes;Small;50070;0;240;1305;1;1;85
+31;Avenger Titan;AEGS;Light Freight;22.5;16.5;5.5;Yes;Small;50056;8;260;1115;1;1;55
+32;Gladiator;ANVL;Bomber;22.5;22.5;6.0;Yes;Small;87497;0;200;980;1;2;165
+33;M5O;ORIG;Racing;11.0;10.0;3.0;Yes;Small;10580;0;330;1345;1;1;0
+34;Starfarer;MISC;Heavy Reguelling;101.0;46.5;23.5;Yes;Large;3510025;295;115;890;4;6;300
+35;Starfarer GEMINI;MISC;Heavy Reguelling;101.0;46.5;23.5;Yes;Large;3517864;295;120;890;4;6;340
+36;Caterpillar;DRAK;Heavy Reguelling;111.5;39.0;13.5;Yes;Large;1608205;576;130;890;2;4;330
+37;Caterpillar Pirate Edition;DRAK;Heavy Reguelling;111.5;39.0;13.5;Yes;Large;1608205;576;130;890;2;4;0
+38;Caterpillar Best In Show Edition;DRAK;Heavy Reguelling;111.5;39.0;13.5;Yes;Large;1608205;576;130;890;2;4;0
+39;Relatiator Bomber;AEGS;Heavy Bomber;69.5;42.5;12.5;Yes;Large;300392;0;145;814;4;7;0
+40;Relatiator;AEGS;Heavy Gunship;69.5;42.5;12.5;Yes;Large;300392;0;185;815;4;7;0
+41;Scythe;VNCL;Medium Figther;31.0;23.0;8.5;Yes;Small;59573;0;285;1240;1;1;300
+42;Idris0M;AEGS;Frigate;242.0;126.0;46.0;Yes;Capital;37459548;831;0;0;8;28;1000
+43;Idris0P;AEGS;Frigate;233.0;126.0;46.0;Yes;Capital;37310200;995;0;0;8;28;1500
+44;P052 Merlin;KRIG;Snub Fighter;12.0;7.7;2.0;Yes;Snub;8909;0;203;1030;1;1;25
+45;Mustang Alpha;CNOU;Cargo;21.5;18.0;9.0;Yes;Small;32970;6;255;1160;1;1;30
+46;Mustang Beta;CNOU;Pathfinder;21.5;18.0;9.0;Yes;Small;39610;0;250;1215;1;1;40
+47;Mustang Gama;CNOU;Racing;21.5;18.0;9.0;Yes;Small;30263;0;325;1340;1;1;55
+48;Mustang Delta;CNOU;Light Figther;21.5;18.0;9.0;Yes;Small;37345;0;240;1225;1;1;65
+49;Mustang Alpha Vindicator;CNOU;Starter / Light Freight;17.5;15.5;5.5;Yes;Small;32970;6;255;1160;1;1;0
+50;Redeemer;AEGS;Gun Ship;51.0;23.5;14.0;Yes;Medium;120380;2;208;0;3;4;325
+51;Gladius;AEGS;Light Figther;20.0;17.0;5.5;Yes;Small;48958;0;280;1235;1;1;90
+52;Gladius Valiant;AEGS;Light Figther;20.0;17.0;5.5;Yes;Small;48958;0;220;1236;1;1;0
+53;Pirate Gladius;AEGS;Light Figther;20.0;17.0;5.5;Yes;Small;48958;0;280;1235;1;1;0
+54;Kharta0AL;XNAA;Light Figther;30.5;13.0;8.0;Yes;Small;67115;0;300;1325;1;1;170
+55;Merchantman;BANU;Heavy Freight;160.0;160.0;65.0;Yes;Large;9635;2880;0;0;4;8;650
+56;890 Jump;ORIG;Luxurt Touring;205.0;71.0;40.0;Yes;Capital;4590000;460;80;0;3;8;950
+57;Carrack;ANVL;Expedition;126.5;76.5;30.0;Yes;Large;4397858;456;1076;0;4;6;600
+58;Carrack W/CBX;ANVL;Expedition;126.5;76.5;30.0;Yes;Large;4397858;456;1076;0;4;6;0
+59;Carrack Expedition W/CBX;ANVL;Expedition;126.5;76.5;30.0;Yes;Large;4397858;456;1076;0;4;6;0
+60;Carrack Expedition ;ANVL;Expedition;126.5;76.5;30.0;Yes;Large;4397858;456;1076;0;4;6;0
+61;Herald;DRAK;Medium Data;23.5;12.5;9.0;Yes;Small;66031;0;235;1360;1;1;85
+62;Hull C;MISC;Heavy Freight;125.0;55.0;55.0;Yes;Large;886930;4608;0;0;2;4;350
+63;Hull A;MISC;Medium Freight;24.0;10.0;8.0;Yes;Small;122650;64;0;0;1;1;90
+64;Hull B;MISC;Heavy Freight;49.0;15.5;17.0;Yes;Medium;387500;384;0;384;1;1;140
+65;Hull D;MISC;Heavy Freight;209.0;70.0;70.0;Yes;Capital;121600;20736;0;0;3;5;450
+66;Hull E;MISC;Heavy Freight;372.0;104.0;104.0;Yes;Capital;165200;98304;0;0;4;5;750
+67;Orion ;RSI;Heavy Mining;170.0;50.0;50.0;Yes;Capital;26496000;384;0;0;4;7;575
+68;Reclaimer;AEGS;Heavy Salvage;155.0;118.0;50.0;Yes;Large;9500158;180;100;930;4;5;400
+69;Reclaimer Best In Show Edition;AEGS;Heavy Salvage;155.0;118.0;50.0;Yes;Large;9500158;180;100;930;4;5;0
+70;Javelin;AEGS;Destroyer;480.0;198.0;72.0;Yes;Capital;109860179;5400;0;0;12;80;3000
+71;Vanguard Warden;AEGS;Heavy Figther;38.5;40.0;8.5;Yes;Medium;238616;0;225;1115;2;2;260
+72;Vanguard Harbinger;AEGS;Bomber;38.5;40.0;8.5;Yes;Medium;238616;0;225;0;2;2;290
+73;Vanguard Sentinel;AEGS;Interdiction;38.5;40.0;8.5;Yes;Medium;238616;0;225;0;2;2;275
+74;Vanguard Hoplite;AEGS;Dropship;38.5;40.0;8.5;Yes;Medium;229440;0;225;1020;1;1;235
+75;Reliant Kore;MISC;Starter / Light Freight;14.5;28.5;4.0;Yes;Small;38556;6;220;1150;1;2;65
+76;Reliant Mako;MISC;Reporting;14.5;28.5;4.0;Yes;Small;38566;0;166;1150;1;2;95
+77;Reliant Sen;MISC;Light Science;14.5;28.5;4.0;Yes;Small;38566;0;166;1150;1;2;85
+78;Reliant Tana;MISC;Light Figther;14.5;28.5;4.0;Yes;Small;38566;0;166;1150;1;2;75
+79;Genesis;CRUS;Passenger;85.0;90.0;16.0;Yes;Large;3120000;300;0;0;2;8;400
+80;Glaive;ESPR;Medium Fighter;31.0;31.5;8.5;Yes;Medium;66013;0;255;1230;1;1;350
+81;Endeavor;MISC;Heavy Science;200.0;48.0;20.0;Yes;Capital;4055000;500;0;0;3;5;350
+82;Sabre;AEGS;Stealth Fighter;240.0;26.0;5.0;Yes;Small;78513;0;275;1235;1;1;170
+83;Sabre Comet;AEGS;Medium Fighter;24.0;26.0;5.0;Yes;Small;78513;0;215;1235;1;1;0
+84;Sabre Raven;AEGS;Interdiction;24.0;20.5;5.0;Yes;Small;69433;0;275;1235;1;1;0
+85;Crucible;ANVL;Heavy Repair;90.0;50.0;20.0;Yes;Large;3650500;230;0;0;3;8;350
+86;P072 Archimedes;KRIG;Racing;12.0;7.7;2.0;Yes;Snub;8909;0;248;0;1;1;35
+87;P072 Archimedes Emerald;KRIG;Racing;12.0;7.7;2.0;Yes;Snub;8909;0;248;0;1;1;0
+88;Blade;ESPR;Light Figther;16.5;20.0;5.5;Yes;Small;26056;0;290;1240;1;1;275
+89;Prospector;MISC;Prospecting And Mining;24.0;15.0;7.0;Yes;Small;116477;0;200;1210;1;1;155
+90;Buccaneer;DRAK;Interdiction;15.0;16.0;4.5;Yes;Small;40821;0;280;1315;1;1;110
+91;Dragonfly Yellowjacket;DRAK;Racing;6.0;2.5;1.5;Yes;Snub;2169;0;155;1100;1;2;0
+92;Dragonfly Black;DRAK;Racing;6.0;2.5;1.5;Yes;Snub;2169;0;255;1100;1;2;0
+93;Mpuv Personel;ARGO;Light Freight;9.5;8.5;4.3;Yes;Snub;12307;0;150;920;1;1;40
+94;Mpuv Cargo;ARGO;Light Freight;9.5;8.5;4.3;Yes;Snub;12187;2;150;900;1;1;35
+95;Terrapin;ANVL;Pathfinder;19.5;14.5;6.0;Yes;Small;86454;0;210;1205;1;1;220
+96;Polaris;RSI;Corvette;155.0;82.0;35.0;Yes;Capital;17155000;216;0;0;6;14;750
+97;Prowler;ESPR;Dropship;34.0;32.0;15.0;Yes;Medium;171700;0;178;1116;2;2;440
+98;85X;ORIG;Touring;13.0;10.0;2.0;Yes;Snub;19097;0;255;1185;1;2;50
+99;Razor;MISC;Racing;11.5;8.2;2.7;Yes;Small;10925;0;335;1345;1;1;145
+100;Razor Ex;MISC;Stealth;11.5;8.2;2.7;Yes;Small;10925;0;325;1340;1;1;155
+101;Razor Lx;MISC;Luxury ;11.5;8.2;2.7;Yes;Small;10925;0;340;1345;1;1;150
+102;Hurricane;ANVL;Heavy Figther;22.0;14.5;6.0;Yes;Small;86454;0;265;1125;2;2;210
+103;Defender;BANU;Light Figther;25.5;20.0;8.0;Yes;Small;78406;0;0;0;1;2;220
+104;Eclipse;AEGS;Stealth Bomber;20.5;36.6;4.4;Yes;Medium;54216;0;195;980;1;1;300
+105;Nox;XNAA;Racing;5.5;1.5;1.5;Yes;Snub;1394;0;275;1105;1;1;45
+106;Nox Kue;XNAA;Racing;5.5;1.5;1.5;Yes;Snub;1394;0;220;1103;1;1;0
+107;Cyclone;TMBL;Exploration / Recon;6.0;4.0;2.5;No;Vehicle;3022;1;0;0;1;2;55
+108;Cyclone Tr;TMBL;Combat;6.0;4.0;2.5;No;Vehicle;3022;0;0;0;1;3;65
+109;Cyclone Rc;TMBL;Racing;6.0;4.0;2.5;No;Vehicle;3022;0;0;0;1;2;65
+110;Cyclone Rn;TMBL;Recon;6.0;4.0;3.0;No;Vehicle;3022;0;0;0;1;2;65
+111;Cyclone Aa;TMBL;Anti0Aircraft;6.0;4.0;2.5;No;Vehicle;3300;0;0;0;1;2;35
+112;Cyclone Mt;TMBL;Assault;6.0;4.0;2.5;No;Vehicle;3022;0;0;0;1;3;75
+113;Ursa Rover;RSI;Exploration;7.6;5.5;2.2;No;Vehicle;11732;4;40;0;1;2;0
+114;Ursa Rover Fortuna;RSI;Exploration;7.6;5.5;2.2;No;Vehicle;11732;4;40;0;1;2;0
+115;600I Touring;ORIG;Touring;91.5;52.0;17.0;Yes;Large;1576792;16;135;950;3;5;435
+116;600I Explorer;ORIG;Expedition;91.5;52.0;17.0;Yes;Large;1576792;40;145;975;2;5;475
+117;X1;ORIG;Touring;5.5;1.3;1.5;Yes;Snub;1610;0;0;0;1;1;40
+118;X1 Velocity;ORIG;Racing;5.5;1.3;1.5;Yes;Snub;1528;0;0;0;1;1;45
+119;X1 Force;ORIG;Pathfinder;5.5;1.3;1.5;Yes;Snub;1682;0;0;0;1;1;50
+120;Pioneer;CNOU;Heavy Construction;200.0;125.0;30.0;Yes;Capital;35600000;600;85;0;4;8;850
+121;Hawk;ANVL;Light Figther;17.0;22.0;6.5;Yes;Small;40000;0;200;500;1;1;100
+122;Hammerhead;AEGS;Heavy Gunship;115.0;75.0;16.0;Yes;Large;4260000;40;0;0;3;9;725
+123;Hammerhead Best In Show Edition;AEGS;Heavy Gunship;115.0;75.0;16.0;Yes;Large;4260000;40;0;0;3;9;0
+124;Nova;TMBL;Combat;16.0;7.0;5.0;No;Vehicle;73190;0;20;0;1;3;120
+125;Vulcan;AEGS;Medium Repair / Medium Refuel;38.5;16.5;10.0;Yes;Medium;625330;12;210;0;1;3;200
+126;100I;ORIG;Starter / Touring;19.3;11.0;4.0;Yes;Small;0;2;210;0;1;1;50
+127;125A;ORIG;Starter / Light Fighter;19.3;11.0;4.0;Yes;Small;0;2;230;0;1;1;60
+128;135C;ORIG;Starter / Light Freight;19.3;11.0;4.0;Yes;Small;0;6;190;0;1;1;65
+129;C2 Hercules;CRUS;Transport;94.0;70.0;23.0;Yes;Large;3139240;672;135;0;1;2;400
+130;M2 Hercules;CRUS;Military Transport;94.0;70.0;23.0;Yes;Large;3139240;468;135;0;1;3;520
+131;A2 Hercules;CRUS;Heavy Bomber / Military Transport;97.0;70.0;23.0;Yes;Large;3139240;234;135;0;1;6;750
+132;Vulture;DRAK;Light Salvage;33.0;16.0;9.0;Yes;Small;114591;12;165;0;1;1;175
+133;Apollo Triage;RSI;Medical;43.0;30.0;10.0;Yes;Large;376500;28;205;0;0;2;250
+134;Apollo Medivac;RSI;Medical;43.0;30.0;10.0;Yes;Large;376500;28;195;0;0;2;275
+135;Mercury;CRUS;Medium Cargo / Medium Data;56.0;51.0;16.0;Yes;Medium;1615175;114;215;1287;2;3;260
+136;Valkryrie;ANVL;Dropship;38.0;28.0;9.5;Yes;Small;0;0;0;0;0;5;375
+137;Valkryrie Liberator Edition;ANVL;Dropship;38.0;18.0;9.5;Yes;Small;75000;0;0;0;0;5;0
+138;Kraken;DRAK;Multi0Role / Light Carrier;270.0;104.0;64.0;Yes;Capital;0;3792;0;0;0;10;1650
+139;Kraken Privateer;DRAK;Multi0Role / Light Carrier;270.0;104.0;64.0;Yes;Capital;0;768;0;0;0;10;2000
+140;Arrow;ANVL;Light Figther;16.0;12.0;4.0;Yes;Small;30752;0;270;0;1;1;75
+141;San'Tok.Yai;XNAA;Medium Fighter;24.0;23.0;10.0;Yes;Medium;106566;0;265;0;1;1;220
+142;Srv;ARGO;Recovery;28.5;19.5;8.7;Yes;Small;231680;10;200;0;1;1;150
+143;Corsair;DRAK;Exploration;55.0;27.0;31.0;Yes;Large;0;72;0;0;1;4;250
+144;Ranger RC;TMBL;Racing;3.7;2.0;2.0;No;Vehicle;0;0;0;0;1;1;35
+145;Ranger TR;TMBL;Combat;3.7;2.0;2.0;No;Vehicle;0;0;0;0;1;1;40
+146;Ranger CV;TMBL;Touring;3.7;2.0;2.0;No;Vehicle;0;0;0;0;1;1;35
+147;Ballista;ANVL;Military;17.0;7.0;5.5;No;Vehicle;0;0;33;0;1;2;140
+148;Anvil Ballista Snowblind;ANVL;Military;17.0;7.0;5.5;No;Vehicle;0;0;33;0;1;2;0
+149;Anvil Ballisa Dunestalker;ANVL;Military;17.0;7.0;5.5;No;Vehicle;0;0;33;0;1;2;0
+150;Nautilus;AEGS;Minelayer;125.0;72.0;21.6;Yes;Large;13526320;64;115;0;4;8;725
+151;Nautilus Solstice Edition;AEGS;Minelayer;125.0;72.0;21.6;Yes;Large;13526320;64;115;0;4;8;0
+152;Mantis;RSI;Interdictor;30.0;17.0;8.0;Yes;Small;225621;0;168;1220;1;1;150
+153;C8 Pisces;ANVL;Exploration;12.0;10.0;3.2;Yes;Small;0;4;140;0;1;3;0
+154;C8x Pisces Expedition;ANVL;Exploration;13.0;10.0;3.2;Yes;Small;0;4;140;0;1;3;45
+155;C8r Pisces;ANVL;Medical;13.0;10.0;3.2;Yes;Small;0;0;164;0;1;2;0
+156;Ares Inferno;CRUS;Heavy Figther;27.2;30.2;5.5;Yes;Medium;0;0;0;0;1;0;250
+157;Ares Ion;CRUS;Heavy Figther;27.2;30.2;5.5;Yes;Small;0;0;0;0;1;0;250
+158;Mole;ARGO;Prospecting And Mining;45.0;25.0;15.0;Yes;Medium;0;96;0;0;1;4;315
+159;Argo Mole Carbon Edition;ARGO;Prospecting And Mining;45.0;25.0;8.0;Yes;Medium;0;96;0;0;1;4;0
+160;Argo Mole Talus Edition;ARGO;Prospecting And Mining;45.0;25.0;8.0;Yes;Medium;0;96;0;0;1;4;0
+161;G12;ORIG;Touring;7.2;5.8;2.7;No;Vehicle;0;2;50;0;0;0;60
+162;G12R;ORIG;Racing;7.2;5.8;2.7;No;Vehicle;0;0;55;0;0;0;60
+163;G12A;ORIG;Military;7.2;5.8;2.7;No;Vehicle;0;0;0;0;0;0;65
+164;Talon;ESPR;Light Figther;26.0;23.5;8.6;Yes;Small;28000;0;207;0;1;1;115
+165;Talon Shrike;ESPR;Light Figther;26.0;23.5;8.6;Yes;Small;28000;0;207;0;1;1;115
+166;Roc0Ds;GRIN;Mining;6.6;5.0;3.3;No;Vehicle;2000;4;0;0;1;2;75
+167;Roc;GRIN;Mining;5.1;3.8;3.1;No;Vehicle;0;1;0;0;1;1;55
+168;Nomad;CNOU;Starter;26.5;18.3;9.2;Yes;Small;228123;24;180;1171;1;1;80
+169;Perseus;RSI;Frigate;100.0;50.0;21.0;Yes;Large;0;50;0;0;6;6;675
+170;Scrospius;RSI;Heavy Figther;24.0;32.0;13.0;Yes;Small;97561;0;218;0;1;2;240
+171;Scorpius Antares;RSI;Heavy Figther;24.0;32.0;13.0;Yes;Small;97561;0;238;0;1;2;230
+172;Railen;GAMA;Medium Freight;53.0;52.0;67.0;Yes;Large;0;320;0;0;0;4;225
+173;400I;ORIG;Touring;60.0;32.0;12.5;Yes;Large;430057;42;187;0;1;3;250
+174;Liberator;ANVL;Light Carrier;119.0;67.0;25.0;Yes;Large;0;400;115;0;1;2;575
+175;Odyssey;MISC;Expedition;140.0;90.0;35.0;Yes;Large;0;252;0;0;1;6;700
+176;Raft;ARGO;Medium Freight;39.5;23.0;12.0;Yes;Medium;0;96;0;0;1;2;125
+177;Spartan;ANVL;Transport;17.0;7.0;5.5;No;Vehicle;33276;0;35;0;1;1;80
+178;Hoverquad;CNOU;Personal Transport;4.5;2.5;1.1;No;Vehicle;0;0;0;0;1;1;30
+179;Expanse;MISC;Refinery;35.5;21.2;10.7;Yes;Small;0;128;0;0;1;1;0
+180;Legionnaire;ANVL;Boarding;24.0;32.0;16.0;Yes;Small;0;0;0;0;1;2;120
+181;Mule;DRAK;Transport;4.2;3.0;2.7;No;Vehicle;0;2;0;0;1;1;45
+182;Centurion;ANVL;Combat;17.0;7.0;5.5;No;Vehicle;33276;0;35;0;1;2;110
+183;C1 Spirit;CRUS;Medium Freight;46.5;43.5;10.0;Yes;Medium;0;48;0;0;1;2;110
+184;A1 Spirit;CRUS;Bomber;46.5;43.5;10.0;Yes;Medium;0;0;0;0;1;2;175
+185;E1 Spirit;CRUS;Passenger;46.5;43.5;10.0;Yes;Medium;0;0;0;0;1;2;150
+186;Stv;GRIN;Transport;4.2;2.8;2.0;No;Vehicle;4304;1;0;0;1;2;40
+187;Cutter;DRAK;Starter / Light Freight;20.0;13.0;6.0;Yes;Small;70000;4;160;0;1;1;45
+188;Galaxy;RSI;Modular;110.0;60.0;22.0;Yes;Large;0;64;0;0;1;6;380
+189;M50;ORIG;Racing;11.0;10.0;3.0;Yes;Small;10580;0;330;1345;1;1;100
+190;Retaliator Bomber;AEGS;Heavy Bomber;69.5;42.5;12.5;Yes;Large;300392;0;145;814;4;7;275
